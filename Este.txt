@@ -1,1 +1,2 @@
-Este es un archivo nuevo nuevo nuevo
+Este es un archivo nuevo nuevo 
+Este archivo tiene dos lineas de texto
