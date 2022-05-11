@@ -1,6 +1,7 @@
 Este es un archivo viejo la verdad 
-Este archivo tiene seis lineas de texto
+Este archivo tiene siete lineas de texto
 Esta es la tercer linea de texto
 Y esta es la cuarta
 Ahora esta es la quinta
 Pero esta es la sexta linea 
+Y ahora esta es la septima linea
