@@ -21,6 +21,10 @@ body {
   font-size: 20px;
 }
 #cabecera {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
   background-color: #33a;
   color: white;
   margin: 0;
@@ -31,5 +35,15 @@ body {
 #cabecera #tagline {
   margin: 0 0 0 1rem;
   font-weight: normal;
-  font-size: 0.8rem;
+  font-size: 1rem;
+  padding-right: 1.5rem;
+}
+#cabecera img{
+  height: 3.5rem;
+  padding: 0 0.8rem;
+}
+#cabecera h1{
+  display: flex;
+  align-items: center;
+  font-size: 1.9rem;
 }
