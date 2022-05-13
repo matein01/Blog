@@ -33,3 +33,16 @@ body {
   font-weight: normal;
   font-size: 0.8rem;
 }
+#footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: gainsboro;
+  padding: 0.5rem;
+}
+#footer a {
+  text-decoration: none;
+  color: black;
+  padding: 0 1rem;
+}
